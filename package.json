@@ -1,0 +1,16 @@
+{
+  "name": "node_api",
+  "version": "1.0.0",
+  "description": "node_api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bhashi",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.1.1",
+    "restify": "^4.1.1",
+    "restify-validator": "^0.3.1"
+  }
+}
